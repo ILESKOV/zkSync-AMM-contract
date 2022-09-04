@@ -4,7 +4,7 @@
   "description": "Contract configured to be deployed to layer-2 zkSync rollup",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ILESKOV/zkSync-test-contract"
+    "url": "git+https://github.com/ILESKOV/zkSync-test-contract.git"
   },
   "keywords": [
     "zero-knowledge",
