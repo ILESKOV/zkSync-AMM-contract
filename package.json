@@ -1,0 +1,37 @@
+{
+  "name": "greeter-example",
+  "version": "1.0.0",
+  "description": "Contract configured to be deployed to layer-2 zkSync rollup",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ILESKOV/zkSync-test-contract"
+  },
+  "keywords": [
+    "zero-knowledge",
+    "zkSync",
+    "rollup",
+    "layer2",
+    "solution"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ILESKOV/zkSync-test-contract/issues"
+  },
+  "homepage": "https://github.com/ILESKOV/zkSync-test-contract#readme",
+  "packageManager": "yarn@3.2.3",
+  "devDependencies": {
+    "@ethersproject/hash": "^5.7.0",
+    "@ethersproject/web": "^5.7.0",
+    "@matterlabs/hardhat-zksync-deploy": "^0.4.0",
+    "@matterlabs/hardhat-zksync-solc": "^0.3.7",
+    "ethers": "^5.7.0",
+    "hardhat": "^2.11.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.8.2",
+    "zksync-web3": "^0.8.1"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.2"
+  }
+}
