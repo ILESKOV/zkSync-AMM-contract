@@ -1,5 +1,5 @@
-# 🗞️ Contract build on zkSync ZK rollup layer2 solution 🗞️
-> There is one contract Greeter.sol to be deployed to zkSync. Instructions how to deploy and verify contract on zkSync explorer below
+# 🗞️ Constant Product Automated Market Maker (AMM) Contract build on zkSync ZK rollup layer2 solution 🗞️
+> There are 3 contracts: token0.sol and token1.sol are erc20 tokens and CPAMM is AMM contract to swap these two tokens. Instructions how to deploy and verify contracts on zkSync explorer below
 
 
 ## 📁 Table of Contents
